@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.45.0",
+    "pixelmatch": "^6.0.0",
+    "pngjs": "^7.0.0"
+  }
+}
